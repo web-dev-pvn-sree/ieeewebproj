@@ -1,0 +1,28 @@
+.img1{
+  width:30px;
+  height: 30px;
+}
+#word1{
+  font-weight: 600;
+}
+.button1{
+  margin-top: 5px;
+  width: 80px;
+  height: 30px;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(216, 45, 26);
+  border-color: rgb(255, 43, 43);
+  margin-left: 50px;
+}
+#navbarNav{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 600px;
+}
+#navig{
+  background-color: rgb(250, 250, 250);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 50px;
+  margin-top: -10px;
+}

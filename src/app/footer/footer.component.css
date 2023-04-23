@@ -1,0 +1,10 @@
+#footer {
+  position:fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 5px rgb(215, 213, 213) inset;
+
+}
